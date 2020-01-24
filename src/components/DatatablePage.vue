@@ -1,12 +1,12 @@
 <template>
   <mdb-datatable
-    :data="'https://magenta-oauth.herokuapp.com'"
+    :data="'https://magenta-json.herokuapp.com'"
     striped
     bordered
     :display="3"
     responsive
     reactive
-    :time="2000"
+    :time="5000"
     :searching="false"
     :pagination="false"
     :sorting="false"
