@@ -1,4 +1,4 @@
-# magenta-dashboard
+# liveperson-dashboard
 
 ## Project setup
 ```
